@@ -1,4 +1,4 @@
-# Basic_Mail_Merger
+# Mail_Merger
 Used to generate basic birthday invitations.
 
-One of the projects from Angela Yu's Udemy Course.
+Made using python, one of my first ever projects
